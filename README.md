@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Raphael</h1>
+
+<div>
+<div>
+
 <div align="center">
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
@@ -9,7 +14,9 @@
 ![](https://img.shields.io/badge/Tool-MySQL-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
 
 </div>
-
+  </div>
+  
+---
 
 <div align="center">
 
@@ -19,14 +26,9 @@
 
 ---
 
+
 <!--  ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
-<h1 align="center">Hi 👋, I'm Raphael</h1>
-<h3 align="center">A passionate backend developer</h3>
-
-- 🔭 I’m currently working on [google-places-api](link)
-
-- 🌱 I’m currently learning **C, C++**
 
 
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/raphaell"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/raphaell" /></a></p><br><br>
+
